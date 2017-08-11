@@ -25,7 +25,7 @@ $ npm start
 
 ## Solutions
 
-See [Solutions branch](https://github.com/voorhoede/code-class-express/tree/solutions)
+See [Solutions branch](https://github.com/voorhoede/code-class-express/tree/solutions/solutions)
 
 ## Slides
 
