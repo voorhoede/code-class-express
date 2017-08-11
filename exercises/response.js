@@ -14,6 +14,7 @@ const dataDir = `${__dirname}/../data/`
  * - if `text/html` respond with a rendered `data/item.pug` (`pug` is set as render engine in `/index.js`)
  * - if `application/octet-stream` respond with `data/item.md` as stream (chunked)
  * - if no matching format handler, respond with `406 Not Acceptable`
+ * Tip: see https://expressjs.com/en/guide/routing.html#response-methods
  */
 
 const sendItemAsMarkdown = (req, res, next) => {}

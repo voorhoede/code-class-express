@@ -23,6 +23,10 @@ $ npm start
 3. [Find a route](exercises/routing.js)
 4. [Respond in kind](exercises/respond.js)
 
+## Solutions
+
+See [Solutions branch](https://github.com/voorhoede/code-class-express/tree/solutions)
+
 ## Slides
 
 [Code class Express presentation (PDF)](https://github.com/jbmoelker/presentations/blob/master/code-class-express-2017-08.pdf)

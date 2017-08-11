@@ -8,8 +8,6 @@ app.set('view engine', 'pug')
 app.use((req, res, next) => {
     console.log(req.url, { req, res })
     next()
-
-
 })
 app.use(express.static('public/'))
 

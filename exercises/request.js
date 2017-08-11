@@ -24,7 +24,7 @@ const renderValuesPage = ({ value1, value2, value3 }) => `
         <dt>Value 2</dt><dd>${value2}</dd>
         <dt>Value 3</dt><dd>${value3}</dd>
     </dl>
-    <form method="post" action="/values/${value1}?value2=${value2}">
+    <form method="post" action="/request/${value1}?value2=${value2}">
         <label>New value 3 <input name="value3" value="bananas"></label>
         <button>Update values</button>
     </form>
